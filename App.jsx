@@ -1,15 +1,14 @@
 
-import './App.css'
-import Calculation from './component/Calculation'
-import ListCourse from './component/ListCourse'
+import ColorBox from './component/ColorBox'
+import UserInfo from './component/UserInfo'
 
 function App() {
 
 
   return (
     <>
-    <ListCourse></ListCourse>
-    <Calculation></Calculation>
+ <ColorBox/>
+    
     </>
   )
 }

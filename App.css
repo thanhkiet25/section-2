@@ -1,0 +1,30 @@
+.container{
+    width: 620px;
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.box1{
+    flex-basis: 33%;
+    text-align: center;
+    align-content: center;
+    color: #fff;
+    background-color: red;
+}
+.box2{
+    flex-basis: 33%;
+    text-align: center;
+    align-content: center;
+    color: #fff;
+    background-color: rgb(16, 41, 150);
+}
+
+.box3{
+    flex-basis: 33%;
+    text-align: center;
+    align-content: center;
+    color: #fff;
+    background-color: rgb(23, 138, 31);
+}
+
